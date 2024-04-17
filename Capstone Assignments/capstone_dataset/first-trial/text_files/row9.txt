@@ -1,0 +1,11 @@
+position is Machine Learning Engineer
+company is maven
+location is Greater Chicago Area
+salary is N/A
+
+Seniority level is Mid-Senior level
+Employment type is Full-time
+Job function is Engineering, Information Technology, and Research
+Industries is Financial Services, Technology, Information and Internet, and Software Development
+
+Multi-strategy hedge fund is looking for an experienced Machine Learning Engineer to join its quantitative trading team.Your core focus will be to build sophisticated ML based data pipelines and analytics used to perform advanced quantitative research to enhance existing and create new and profitable systematic trading strategies.Skills & Experience:> Strong academic background in a STEM field.> 5 -15 years of experience in researching and building data pipelines and analytics.>Financial markets experience is welcome but not required.> Expert programming skills in C++ and or Python.

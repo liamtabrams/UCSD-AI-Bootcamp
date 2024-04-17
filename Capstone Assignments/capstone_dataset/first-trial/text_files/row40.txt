@@ -1,0 +1,11 @@
+position is Generative AI Engineer
+company is Dice
+location is Plano, TX
+salary is N/A
+
+Seniority level is Entry level
+Employment type is Full-time
+Job function is Engineering and Information Technology
+Industries is Software Development
+
+          Dice is the leading career destination for tech experts at every stage of their careers. Our client, AgreeYa Solutions, is seeking the following. Apply via Dice today!Title : Data Scientist/AI-ML EngineerWork location: Plano, TX (On-site)Duration: 18 Months+Exp: 8+ yrsMandatory Skills:Experience in Deep learning engineering (mostly on MLOps).Strong NLP/LLM experience and processing text using LLM.Proficient in PySpark/Databricks & Python programming.Deploying models and building APIS (FAST API , FLASK API).Need to have experience working with GPU'S.Building backend applications (data processing etc) using Python and Deep learning frame works.Working knowledge of Vector databases like 1) Milvus 2) azure cognitive search 3) quadrant etc.Experience in transformers and working with hugging face models like llama, Mixtral AI and embedding models etc.Good to have:Knowledge and experience in Kubernetes, docker etc.Cloud Experience working with VM'S and azure storage.Sound data engineering experience.Generative AI Engineer

@@ -1,0 +1,11 @@
+position is Virtual Reality Development Specialist
+company is The Mice Groups, Inc.
+location is United States
+salary is $95,000.00/yr - $140,000.00/yr
+
+Seniority level is Mid-Senior level
+Employment type is Full-time
+Job function is Engineering
+Industries is IT Services and IT Consulting and Technology, Information and Media
+
+We are currently looking for an experienced AR/VR Developer to join our team with one of our clients. I would like to tell you a bit more about this position and learn a few things about you, as well.  Title: AR/VR DeveloperLocation: (Remote Role)Full-Time position Responsibilities: • At least 3 years of hands-on experience in Unity development, with a strong focus on XR application development. • Proficiency in developing for Quest, Quest 2, or Quest 3 using OpenXR and native interaction SDK. • A solid understanding of ARCore, ARFoundation, and OpenXR libraries, enabling you to effectively leverage their capabilities. • Previous experience in User Experience (UX) design is advantageous and will enhance your ability to create intuitive interfaces. • Proficiency in one or more general-purpose programming languages such as C/C++, Java, or Python, facilitating seamless integration and development processes. Benefits: • We offer a comprehensive benefits package, including: • Generous Paid Time Off (PTO) and sick leave to support a healthy work-life balance. • Employee Stock Ownership Plans (ESOPs) for selected candidates, providing an opportunity for financial growth and investment in the company. • Visa sponsorship opportunities for selected candidates, promoting diversity and inclusion in our workforce. • Additional benefits as our team expands, fostering a supportive and rewarding work environment.

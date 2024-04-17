@@ -1,0 +1,11 @@
+position is Rust Engineer / C++ Engineer
+company is Dice
+location is King of Prussia, PA
+salary is N/A
+
+Seniority level is Entry level
+Employment type is Full-time
+Job function is Engineering and Information Technology
+Industries is Software Development
+
+          Dice is the leading career destination for tech experts at every stage of their careers. Our client, Motion Recruitment Partners, LLC, is seeking the following. Apply via Dice today!Job Description A cyber security company is looking to bring on a Rust Engineer to their team in King of Prussia, Pennsylvania. They are working on exciting projects that where you will be working with Rust in a functional and object-oriented capacity.They will consider engineers with a strong C++ background with the interest in learning Rust. This engineer should be open to learning new languages if you don't have a Rust background. Someone who is looking to work on research and development, and generally taking initiative on projects will be a great fit for this position.This role is a full-time, hybrid position, being on site one or two days a week. It's a great opportunity to gain experience in cutting edge technologies. Required Skills & ExperienceC++Rust Desired Skills & ExperienceBachelors in Computer Science or Related Field Four TranAPLWhat You Will Be Doing Tech Breakdown100% BackendDaily Responsibilities100% DevelopmentThe Offer You will receive the following benefits:Medical Insurance Dental BenefitsVision BenefitsPaid Time Off (PTO)401(k) Applicants must be currently authorized to work in the US on a full-time basis now and in the future. Rust Engineer / C++ Engineer

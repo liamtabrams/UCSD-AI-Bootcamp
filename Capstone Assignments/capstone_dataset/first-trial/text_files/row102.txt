@@ -1,0 +1,11 @@
+position is Machine Learning Engineer
+company is Harnham
+location is Chicago, IL
+salary is $130,000.00/yr - $150,000.00/yr
+
+Seniority level is Associate
+Employment type is Full-time
+Job function is Information Technology
+Industries is Technology, Information and Media
+
+AI/Machine Learning Engineer$130,000-$150,000Remote THE COMPANYHarnham is partnered with a leading technology firm that is introducing automation to the construction sector. The company uses computer vision and machine learning technology to analyze entire buildings: from full HVAC systems to solar panels to pavement. After analyzing this data, they use AI to analyze images and formulate repair plans for clients to estimate budgets resulting in millions of dollars saved.THE ROLEWork alongside BE Engineers to create AI driven services and build new platform infrastructureBuild machine learning models and put them into deployment to support new and existing platformsUtilize computer vision technology to build end to end modelsReport directly into the Head of Artificial Intelligence, opportunities for growth YOUR SKILLS AND EXPERIENCE1+ Commercial experience preferred with Machine Learning modelsBachelor or Master’s degree in Computer Vision, Computer Science or Electrical EngineeringPreferred experience in a start up environmentTechnical proficiency is required in Python (TensorFlow, PyTorch, Keras), Django, Flask, AWS, Docker, Kubernetes, Terraform, Github, MLFlow, and PostgreSQL.Proven experience deploying machine learning models into productionPreferred if candidate has worked previously with geographical, aerial or satellite data BENEFITSAs an AI/Machine Learning Engineer, you can expect to earn up to $150,000 (depending on experience) and highly competitive benefits. HOW TO APPLYPlease register your interest by sending your Resume to Emma Wright via the Apply link on this page KEYWORDSMachine Learning | AI | TensorFlow | Deep Learning | AWS | PyTorch | Django | MLOps | Computer Vision | Imaging | Python | GIS | Location Data

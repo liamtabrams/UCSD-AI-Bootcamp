@@ -1,0 +1,11 @@
+position is Python Developer
+company is TEKsystems
+location is Milwaukee, WI
+salary is N/A
+
+Seniority level is Entry level
+Employment type is Full-time
+Job function is Engineering and Information Technology
+Industries is IT Services and IT Consulting
+
+          We are hiring a Python Developer to join our team in the Milwaukee, WI area. This person will be responsible for developing Microservices for one of our data teams. Technologies PythonAWSMicroservicesGitlabCICDREST APIsKubernetesDockerMessaging Tool (Kafka, Redis, etc) Nice To Have JavaDelphix Masking Tool About TEKsystems We're partners in transformation. We help clients activate ideas and solutions to take advantage of a new world of opportunity. We are a team of 80,000 strong, working with over 6,000 clients, including 80% of the Fortune 500, across North America, Europe and Asia. As an industry leader in Full-Stack Technology Services, Talent Services, and real-world application, we work with progressive leaders to drive change. That's the power of true partnership. TEKsystems is an Allegis Group company.The company is an equal opportunity employer and will consider all applications without regards to race, sex, age, color, religion, national origin, veteran status, disability, sexual orientation, gender identity, genetic information or any characteristic protected by law.

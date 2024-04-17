@@ -1,0 +1,11 @@
+position is Software Engineer Python / C++
+company is maven
+location is New York, NY
+salary is N/A
+
+Seniority level is Mid-Senior level
+Employment type is Full-time
+Job function is Engineering, Information Technology, and Research
+Industries is Technology, Information and Internet, Financial Services, and Software Development
+
+Medium sized financial technology firm focused on developing best in class software for leading Investment Banks & Hedge Funds is looking to hire 2 software developers for its research & engineering team.You will join a team of talented quantitative analysts and software developers focused on enhancing existing or developing new software for fixed income trading teams.The software capabilities are constantly improving and include helping traders to identify in real time: global mis-pricings of niche financial instruments; macro shock sentiment; satellite fed alternative data; and, other novel real-time trading sensitive analytics + data.The roadmap for new products is full and challenging.Requirements:Expert programming & software development skills in one or more of Python, C++, GO and or Java.Passion for designing & creating beautiful software.5 - 15 years software development experience from any Industry.

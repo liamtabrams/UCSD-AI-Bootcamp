@@ -1,0 +1,11 @@
+position is Algorithm Engineer
+company is Insight Global
+location is United States
+salary is $100,000.00/yr - $140,000.00/yr
+
+Seniority level is Associate
+Employment type is Full-time
+Job function is Engineering, Design, and Information Technology
+Industries is Defense and Space Manufacturing, Engineering Services, and Software Development
+
+Insight Global is looking for an experience algorithm-focused Software Engineer to join a growing seismic-acoustic signal processing company sitting remote out of Melbourne, FL. This company leverages seismic-acoustic energy to create actionable insights for use in physical security, infrastructure protection and general risk management.In this role, the engineer will be responsible for the software design and development on complex, tactical geophysical systems. The software design and development responsibilities include code and unit testing, troubleshooting, guidance and/or execution on corrective actions, and recommendations for design enhancement. This position also heavily supports integration and test actions, so the engineer should have experience in both development and QA testing.To be most successful in this role, this software engineer should have professional experience (or postgraduate academic experience) in algorithm development, signal processing, and real-time processing using CUDA API.This is a full-time, permanent position sitting remote (ideally working EST hours).Must-Haves:- MS in computer science or related field- 3+ years of experience in software development using C, C++, and C#- 3+ years of experience with embedded Linux- Strong math and algorithm development background- Professional development experience in Python and MATLAB- Ability to obtain a DoD security clearance

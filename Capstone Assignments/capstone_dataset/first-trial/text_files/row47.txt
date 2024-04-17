@@ -1,0 +1,11 @@
+position is Senior Software Engineer (Python and C++)
+company is Oho Group Ltd
+location is Sunnyvale, CA
+salary is $150,000.00/yr - $220,000.00/yr
+
+Seniority level is Mid-Senior level
+Employment type is Full-time
+Job function is Information Technology
+Industries is Software Development
+
+Senior Software Engineer - California - Exciting AI Start-upAre you a passionate Senior Software Engineer looking to make a big impact on a fast-growing business? Do you have experience with Python and C++ as a Senior Software Engineer?Here’s your chance to be a Senior Software Engineer as part of a fast-growing AI Start-Up in the AI Video Platform market! As a Senior Software Engineer, you would be helping them develop their edge-computing stack. The Senior Software Engineer role would also involve deploying their machine learning models to production. Some other Senior Software Engineer tasks would be optimising their platform for optimal performance and building edge applications. You would be great for this Senior Software Engineer role if you’re looking to make an impact on the business and are committed to excellence!What you would ideally have 🖥️:Degree from top universities in a relevant field (Computer Science, Statistics, Mathematics)Experience using C++, Python (Python3)Experience with profiling tools, Docker, CI/CD✨ Bonus if you have experience with Edge/IoT computing, Salt, PyTorchWhat’s in it for you 💰:Competitive base salaryCompany equityFlexible PTO & Sick Policy100% company-paid private Dental and Vision Insurance… and more!If this sounds like the role for you, apply now for immediate consideration!Senior Software Engineer - California - Exciting AI Start-up

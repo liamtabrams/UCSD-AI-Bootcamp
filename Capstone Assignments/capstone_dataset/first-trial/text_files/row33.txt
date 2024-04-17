@@ -1,0 +1,11 @@
+position is Machine Learning Engineer
+company is Harnham
+location is New York, NY
+salary is $170,000.00/yr - $200,000.00/yr
+
+Seniority level is Mid-Senior level
+Employment type is Full-time
+Job function is Manufacturing
+Industries is Broadcast Media Production and Distribution
+
+Machine Learning Engineer - ManufacturingRemote, United States$170,000 - $200,000 base + equity Our client, a pioneering technology company dedicated to advancing the understanding of radio spectrum and wireless signals, is seeking a Machine Learning Engineer eager to contribute to innovation in the RF space. Role Overview:As a Machine Learning Engineer (MLE), you will play a pivotal role in collaborating with company and engineering leadership to design experimental frameworks. Your responsibilities include developing and optimizing machine learning models tailored for real-time, edge applications. You'll assess the effectiveness of new and existing models, stay updated on the latest advancements in machine learning and signal processing, and translate complex research findings into actionable insights for product development. Working closely with the embedded systems team, you'll integrate machine learning models seamlessly into our products while providing technical guidance and mentorship to the team. Skills and Experience:The ideal MLE will possess:Proven experience in applied machine learning, showcasing proficiency in designing and implementing solutions.A solid background in embedded systems, demonstrating the ability to develop and optimize software for embedded platforms.Expertise in signal processing, with a track record of effectively manipulating and interpreting signals for meaningful insights.Desired Skills and ExperienceData Science | Engineering | MLOps | Machine Learning | Python | Sensors | Software Engineering | Signal Processing |

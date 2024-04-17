@@ -1,0 +1,11 @@
+position is Machine Learning Consultant
+company is Dice
+location is United States
+salary is N/A
+
+Seniority level is Mid-Senior level
+Employment type is Full-time
+Job function is Other
+Industries is Software Development
+
+          Dice is the leading career destination for tech experts at every stage of their careers. Our client, AIMIC Inc., is seeking the following. Apply via Dice today!Hi,This is Sandeep from AIMIC. Here is our direct client requirement which can be filled immediately.Position: AI/ML Remediation AnalystLocation: Reston, VA (Remote)Duration: 12+ MonthsJob Description:Strong understanding of the Software Development Life Cycle (SDLC).Proficiency in requirement gathering and documentation.Expertise in enterprise architecture, with a focus on AI models and controls.Knowledge and experience in model-based development and reviewing, specifically related to AI models.Understanding of data synchronization principles and techniques.Adaptability and flexibility to evolving needs and requirements.Familiarity with ServiceNow.Thanks & RegardsSandeep KumarIT RecruiterAimic Inc.Machine Learning Consultant

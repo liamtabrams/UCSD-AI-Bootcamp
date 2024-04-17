@@ -1,0 +1,11 @@
+position is Bioinformatics Software Engineer
+company is Insight Global
+location is Memphis Metropolitan Area
+salary is $50.00/hr - $60.00/hr
+
+Seniority level is Mid-Senior level
+Employment type is Full-time
+Job function is Information Technology
+Industries is Hospitals and Health Care
+
+Required Skills and Experience 5+ years of professional experience2-3 years experience working with NextFlowPython experienceBachelors degreeNice to Have Skills and ExperienceExperience moving python libraries into NextFlowMasters degreeScientific background or experience in researchJob Description Use Nextflow to build bioinformatics pipelines that take FASTQ or BAM files as input and process them using bioinformatic tools.Write Python/R scripts to process, summarize, and visualize outputs created by other tools.Ensure that the pipeline is modular and flexible, with the ability to add or remove tools as needed.Implement a reporting system to generate a clinic-ready report that summarizes the findings and provides actionable recommendations.Provide clear and concise documentation on how to use and manage the pipeline, including instructions on how to install and configure the necessary software and tools.Create R Shiny Apps and other web-based user interfaces for new and existing pipelines.Independently identify and implement software solutions to most scientific domain problems or lead teams in the implementation of those solutionsUse scientific domain knowledge to perform data analysis and identify problems and areas for improvementProvide input to software systems strategy, architecture, and standardsManage software systems within an area of responsibility, coordinating efforts with other staff as necessary, with assistance from managementCompensation: $50hr to $65/hr. Exact compensation may vary based on several factors, including skills, experience, and education. Benefit packages for this role will start on the 31st day of employment and include medical, dental, and vision insurance, as well as HSA, FSA, and DCFSA account options, and 401k retirement account access with employer matching. Employees in this role are also entitled to paid sick leave and/or other paid time off as provided by applicable law.

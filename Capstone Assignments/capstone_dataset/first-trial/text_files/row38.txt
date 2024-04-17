@@ -1,0 +1,11 @@
+position is Quantitative Developer
+company is ASB Resources
+location is Manhattan, NY
+salary is $150,000.00/yr - $200,000.00/yr
+
+Seniority level is Associate
+Employment type is Full-time
+Job function is Information Technology
+Industries is Investment Management
+
+Quantitative Developer for a new team focused on systematic corporate bond and credit derivatives strategies.RESPONSIBILITIESDesign and develop software systems for research and production processes (such as alpha generation, portfolio construction, and trading), ensuring efficiency and robustnessManage the CI/CD pipeline, troubleshoot and resolve systems related issues.Assist in building efficient tools for data organization and visualization, fitting, backtesting, and PnL attribution.Automate order generation, integrate compliance and limit checks. Ensure system robustness with automated reconciliation, alerts and fuses, etc.Build desktop UI tools in close collaboration with the portfolio managers and traders to monitor live PnL, order execution, portfolio positions, etc.REQUIREMENTSUndergraduate or graduate degree in Computer Science or other related discipline3+ years of experience designing and developing research and live trading infrastructure at a financial institution.Proficiency in Linux OS. Demonstrated strong coding skills in Python/C++ with experience in object-oriented design and proper unit testing. Experience in SQL and UI development frameworks is preferred.Experience handling connections to execution/order management systems is preferred.Experience in credit markets and fixed income pricing systems is a plusStrong communication skillsWillingness to take ownership of his/her work and be among the founding members of a team.

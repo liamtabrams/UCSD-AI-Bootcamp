@@ -1,0 +1,11 @@
+position is Software Engineer in Test
+company is Optomi
+location is Dallas-Fort Worth Metroplex
+salary is N/A
+
+Seniority level is Mid-Senior level
+Employment type is Full-time
+Job function is Engineering, Quality Assurance, and Information Technology
+Industries is IT Services and IT Consulting
+
+The SDET will participate in test plan design, test case development and execution, and test automation development of large-scale, distributed software applications, systems and services.**MUST be local to Plano, TX. MUST need to know how to code in Java and have proven experience in deploying tests to AWS.ResponsibilitiesBuild and maintain an automated test infrastructure for a large-scale microservice-oriented system comprising of many componentsWrite, execute and maintain end-to-end system integration scenarios and user acceptance scenarios for the large-scale platformCollaborate with other business groups and external teams for end-to-end integrationPartner with developers to create, maintain and execute automated unit and integration testsCollaborate with DevOps to integrate the automated tests in the CI/CD pipelinesRequirements:You have 5+ years of hands-on experience creating and maintaining test automation and associated infrastructureYou have proficiency in coding in JavaYou are very fluent and have solved several real-life problems using TestNG or JUnitYou are very fluent at maintaining and utilizing a collection of API testsYou have experience in setting up test pipelines in CI/CD toolsYou have experience with testing complex data pipelines that span over multiple componentsProficiency in testing serverless-based architecture and testing on AWSYou have experience deploying tests in AWS, using AWS services such as dynamoDB, S3, Lambda, etc.You are experienced in using systems like Jira or qTest for tracking purposes and ensuring traceability among test cases, code, and requirements

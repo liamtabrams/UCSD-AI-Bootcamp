@@ -1,0 +1,11 @@
+position is C++ Low Latency Trading Systems Dev-Chicago-150-300K Base+Bonus
+company is Huxley
+location is Chicago, IL
+salary is $150,000.00/yr - $300,000.00/yr
+
+Seniority level is Entry level
+Employment type is Full-time
+Job function is Engineering, Finance, and Information Technology
+Industries is Banking, Software Development, and Financial Services
+
+C++ Low Latency Trading Systems Developer - Chicago, Illinois - 150 - 300 K Base Plus Bonus A trading firm in Chicago is hiring C++ engineers to their low latency trading systems technology team. Relative experience in finance is ideal, but the team is open to excellent low latency candidates from out of industry. Excellent C++ experience is a must with STL/Boost, Linux/Unix, etc. Anticipated annual base salary range is around 150 - 300 K plus bonus.

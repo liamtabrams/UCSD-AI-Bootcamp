@@ -1,0 +1,11 @@
+position is Python Developer
+company is hackajob
+location is United States
+salary is $120,000.00/yr - $170,000.00/yr
+
+Seniority level is Mid-Senior level
+Employment type is Full-time
+Job function is Information Technology and Engineering
+Industries is Software Development
+
+hackajob has partnered with a leading American retailer specializing in the sale of high-quality used cars. They offer a wide selection of pre-owned vehicles from various manufacturers, along with services such as financing, warranties, and vehicle appraisals.Job Title: Python DeveloperLocation: US - Remote SetupQualifications:7+ years’ software-engineering experience in an enterprise-level environment2+ years’ experience with microservices software architecture2+ years leading the end-to-end design and development of scalable services to be consumed by the enterprise, including monitoring and production supporthackajob is a recruitment platform that will match you with relevant roles based on your preferences and in order to be matched with the roles you need to create an account with us.This opportunity is only open to US Citizens and Green Card holders.To learn more, apply now and we'll schedule a call.

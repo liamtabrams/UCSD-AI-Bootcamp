@@ -1,0 +1,11 @@
+position is Analytics Engineer 
+company is Harnham
+location is United States
+salary is N/A
+
+Seniority level is Mid-Senior level
+Employment type is Full-time
+Job function is Analyst
+Industries is Advertising Services
+
+Analytics & Quality Engineer 12 Month Contract  Full remote, PST hours  Overview: They are looking to hire someone with a skill set that spans across data analytics and quality engineering. This role will primarily be focused on automation, quality checks, improvement of efficiency and quality.  Responsibilities: ETL Automation (~60%) Extract raw data from source systemsTransforming and cleaning data for analysisLoading processed data into databases/systemsAutomate data pipelines using PythonReducing the need for manual data tasksEnsuring timely and accurate flow of data Front-End Dashboarding (~20%) Improving interactive PowerBI dashboards used by leadership teamsEnsuring dashboards are accurate, intuitive, and meet end users needsUsing data visualizations effectively to identify insights Documentation and Miscellaneous (20%) Managing communications with stakeholdersUpdating documentation around data sources, ETL, processes, dashboards Skills: SQL - querying databases for data analysisPython / R - for writing ETL scripts and automationData pipelining / ETL automation PowerBI - building interactive dashboards and visualizations (less important for this role) Desirable skills: Attention to detail Agile / Scrum experience Test automation - writing scripts to validate analysts and dashboards Background: 4 to 5 years experience preferred but can be flexible on industry/background. OEM / Automotive is a plus, but certainly find good candidates from other backgrounds!

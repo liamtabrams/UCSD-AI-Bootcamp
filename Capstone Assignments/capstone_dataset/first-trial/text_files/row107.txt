@@ -1,0 +1,11 @@
+position is Machine Learning Engineer
+company is Blu Omega
+location is United States
+salary is $120,000.00/yr - $160,000.00/yr
+
+Seniority level is Mid-Senior level
+Employment type is Full-time
+Job function is Information Technology
+Industries is Government Administration
+
+Machine Learning Engineer Job  We are seeking a Sr. Machine Learning Engineer to support a Federal health Project by working on a data team focused on data analytics, machine learning, and MLOps. Responsibilities:Use complex Python-based and open source approaches to develop text processing models using NLP, NER, NLU, NLG, or Generative AI approaches depending on use caseDesign and develop Machine Learning models that run at scale to support a broad spectrum of enterprise use casesCollaborate with other members of an MLOps team to build, deploy, and scale ML models on AWS infrastructure, predominantly AWS SageMakerSome familiarity with AWS-native services for containerization and API management will be necessaryQualifications:5-10 years of professional experience3+ years of experience with focus on NLP, NER and other text mining techniquesStrong proficiency in Python frameworks including Tensorflow, PyTorch, scikit-learn, NumPy, Pandas, etc.Familiarity with AWS-native tools for MLOps, mainly AWS SageMakerMust be able to obtain a Public Trust security clearance from the U.S. GovernmentWhat Blu Omega Can Offer You:Competitive benefits including Health Insurance, 401K w/ match, Paid Time Off and more.Results driven culture that embrace our core valuesRewarding work contributing to our Nation’s mission critical programsBlu Omega is a Woman Owned Small Business Federal Technology services firm headquartered in Washington DC and supporting clients nationally. We provide Technology solutions for enterprise and government customers. Our team has a past performance in a diverse range of programs including those for Data Management, Cloud/Infrastructure, Software Development and Enterprise Applications. To be considered, you must apply online now and submit your resume. We are actively monitoring all applies. Feel free to apply directly to sanderson@BluOmega.com.  Apply below! And, thank you for partnering with Blu Omega!

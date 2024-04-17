@@ -1,0 +1,11 @@
+position is Firmware Engineer
+company is Dice
+location is Dallas, TX
+salary is N/A
+
+Seniority level is Entry level
+Employment type is Full-time
+Job function is Engineering and Information Technology
+Industries is Software Development
+
+          Dice is the leading career destination for tech experts at every stage of their careers. Our client, XFORIA Inc, is seeking the following. Apply via Dice today!Job Title: Firmware EngineerLocation: Dallas, TX (Onsite)Mode: ContractJob Description:Experience in C/C++Experience in developing firmware for hardware media pipelineDigital Rights Management (Widevine, Playready, FairPlay) & Trusted Execution Environment.Knowledge on different audio/video formats and containers (Dolby audio, DTS, h264, H265, AV1, Dolby Vision, HDR, mp4, CMAF, mpeg2-ts, etc)Familiar with tools to analyze audio/video formats and containers.Experience in working with hardware vendors and with product teams.Strong in Linux system programmingKnowledge on SoC architecture.Good debugging skills

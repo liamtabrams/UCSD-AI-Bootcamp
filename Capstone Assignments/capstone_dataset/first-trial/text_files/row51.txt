@@ -1,0 +1,11 @@
+position is Machine Learning Engineer
+company is HireIO, Inc.
+location is San Francisco, CA
+salary is N/A
+
+Seniority level is Mid-Senior level
+Employment type is Full-time
+Job function is Engineering and Information Technology
+Industries is Technology, Information and Internet
+
+          Responsible for the research and application of the company's large-scale models, exploring new applications and solutions for related technologies in the fields of search, recommendation, advertising, content creation, and customer service, to meet the growing demand for intelligent interactions from users and comprehensively improve their way of life and communication in the future world. The main job directions include: Exploring and developing large-scale language models and optimizing enterprise applications to the extreme; Data construction, instruction tuning, preference alignment, and model optimization; Implementation of relevant applications, including content generation, reasoning, code generation, etc.; Collaborating with cross-functional teams to produce and apply new science to more responsibly develop and deploy large language models; In-depth research and exploration of more usage scenarios in future lifeRequirements Excellent coding ability, data structures, and fundamental algorithm skills, proficient in C/C++ or Python, winners of competitions such as ACM/ICPC, NOI/IOI, Top Coder, Kaggle, etc. are preferred; Experience in one or more of the following areas: NLP, Ranking, Ads, search engine, recommender system, distributed system, and machine learning Familiar with NLP, CV-related algorithms, technologies, and familiar with large-scale model training and RL algorithms are preferred; Excellent problem analysis and solving skills, able to deeply solve problems in large-scale model training and application; Good communication and collaboration skills, able to explore new technologies with the team and promote technological progress

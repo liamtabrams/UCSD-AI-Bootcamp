@@ -1,0 +1,11 @@
+position is  Triage Software Engineer
+company is CoreTek Labs
+location is Dallas, TX
+salary is N/A
+
+Seniority level is Mid-Senior level
+Employment type is Full-time
+Job function is Information Technology, Business Development, and Engineering
+Industries is Technology, Information and Media, Information Services, and Software Development
+
+This is a FTE job with a Large MNCRole: Triage Software EngineerLocation: Dallas, TX Responsibilities: As an IAT engineer, you will be responsible for initial analysis and triage of defects before they are assigned to individual development teams for root cause and fix.You will perform high level defect analysis to filter out environmental/ setup issues, IVI vs server-side issues and move the defects to correct queue (HU, Server, Tier1, Tier2 etc.) at the earliest.You will continuously monitor the defect dashboard, drive defect triage calls and work closely with PO, Eval & Development team members to clarify defects and track them to closure.Create dashboards and reports for management and other stakeholders.Have great problem-solving skills, analytical, tools & development experience, and ability to evaluate and identify issues at a code levelAble to summarize key points and work with others to cut through ambiguity and bring issues to resolutionA history of working with cross-functional teams to ensure successful productYou must be a self-starter with excellent communication skills, attention to detail and a knack for solving problems creativelyThe fast-paced nature of the job requires that you be able to work well under pressureSkills: Experienced in Automotive Infotainment domain with exposure to embedded software development in C/C++/ Linux.Knowledge of how to use JIRA, Confluence and Logs Analysis Tools.High Level System Architecture Knowledge - SW Design, Sequence diagrams, APIs, HTTP error codes.Conversant with Linux commands, utilities and basic Python scriptingExperience in Agile and Scrum methodologiesRequirement Analysis and understanding.Thinking on the feet and aptitude to learn.Preferable but not mandatory skill sets Experience in designing, developing, and debugging software in a real-time embedded environment.Knowledge of how to read DLT logs, DLT-Viewer and how to apply filters in DLT logs

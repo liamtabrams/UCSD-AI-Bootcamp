@@ -1,0 +1,11 @@
+position is Aerospace Software Engineer
+company is EVONA
+location is Colorado, United States
+salary is N/A
+
+Seniority level is Mid-Senior level
+Employment type is Full-time
+Job function is Engineering
+Industries is Defense and Space Manufacturing
+
+Aerospace Software Engineer Colorado Springs Your chance to join a leading company at the forefront of the small satellite industry. They’re on a thrilling mission to harness space physics and transform it into groundbreaking solutions. They’re looking for an Aerospace Software Engineer to ensure top-notch data quality for the aerospace community. If you're passionate about solving complex problems with various programming languages, this opportunity is for you.Job Responsibilities Develop software to process and harmonize earth observation data, scientific model output, and satellite orbit data.Contribute to the development of scientific processing code for understanding and modeling scientific phenomena in space.Research and create scientific reference material to support software development.Document software specifications and implementation details.Refine and redesign aerospace/scientific software applications for efficiency and modularity.Support Business Development activities by assisting in proposal writing and conceptual design with industry partners.Job Requirements Bachelor's Degree in Aerospace Engineering or related technical field.2+ years of experience (higher-level degrees can substitute for experience).Security clearance or the ability to obtain one.In-depth knowledge of orbit dynamics and the space environment.Proficiency in various programming languages (Python, Rust, C/C++, Fortran, Java, JavaScript/HTML).Experience with cloud platforms (Azure, AWS, GCP).Familiarity with software containerization.Join, where the sky is not the limit; it's just the beginning. Your opportunity to shape the future of space technology and make a profound impact on the world. Apply today and be part of something truly extraordinary!

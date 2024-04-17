@@ -1,0 +1,11 @@
+position is AI Engineer
+company is Diverse Lynx
+location is San Jose, CA
+salary is N/A
+
+Seniority level is Entry level
+Employment type is Full-time
+Job function is Engineering
+Industries is IT Services and IT Consulting
+
+          Engineer- AI/ AI/Client, Python, Linux, C/C++, Shell ScriptingBachelor/masters in computer science, computer engineering, data science/analytics, or a related fieldStrong Python programming skillsGood C/C++ programming skillsExcellent written/verbal communication skillsExperience in a field associated with the deployment of AI/Client modelsExperience with AI framework like ONNX, Pytorch or TensorflowStrong analytical skillHands-on experience in optimizing and integrating an AI model in a SW applicationPrior experience in leading a small team of engineersDiverse Lynx LLC is an Equal Employment Opportunity employer. All qualified applicants will receive due consideration for employment without any discrimination. All applicants will be evaluated solely on the basis of their ability, competence and their proven capability to perform the functions outlined in the corresponding role. We promote and support a diverse workforce across all levels in the company.

@@ -1,0 +1,11 @@
+position is Embedded Engineer
+company is Dice
+location is Bellevue, WA
+salary is N/A
+
+Seniority level is Entry level
+Employment type is Full-time
+Job function is Engineering and Information Technology
+Industries is Software Development
+
+          Dice is the leading career destination for tech experts at every stage of their careers. Our client, Teamware Solutions, is seeking the following. Apply via Dice today!Hi,Hope you are doing well!!This is Berlin from Teamware Solutions....We have Job opening on - Embedded EngineerExperience required - 9+ YearsLocation - Seattle and Bellevue, WAOnsite - YesJD:C++ Developer- Core Windows development performing bug fix, feature level work in Shell, debugging in C++, feature validations, issues triage and debugging.Responsible for driving bug fixes, code reviews and handling end-to-end delivery of feature DCRs to ship into retail.Debug issues with windbg/similar debuggers, identifying root cause and suggest bug fixes to the component team.Incident triage, investigation and analysis of reported incidents.Responsible for scenario validation, building automation for manual scenarios as well as driving regular scenario validation on monthly basis.Building effective documentation and reporting feature development status on regular basis.--Thanks & RegardsBerlin PragadeshMail -Contact -LinkedIn -

@@ -1,0 +1,11 @@
+position is GCP Data Engineer
+company is Fractal
+location is Bentonville, AR
+salary is $125,000.00/yr - $135,000.00/yr
+
+Seniority level is Mid-Senior level
+Employment type is Full-time
+Job function is Health Care Provider
+Industries is Hospitals and Health Care
+
+GCP Data EngineerBentonville ARFull time permanentDescription :Minimum of 6 years of experience in data engineering, with at least 4 years of hands-on experience working with Google Cloud Platform.Strong healthcare background/experience is required.Strong understanding of GCP services such as BigQuery, Cloud Storage, Dataflow, Pub/Sub, and Dataproc.Proficiency in programming languages such as Python, Java, or Scala for data processing and scripting tasks.Experience with data warehouse design, implementation, and optimization.Knowledge of data streaming and real-time analytics technologies.Familiarity with machine learning concepts and frameworks (e.g., TensorFlow, scikit-learn) is a plus.Thank you Sandeep Kumar

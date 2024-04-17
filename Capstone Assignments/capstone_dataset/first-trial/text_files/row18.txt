@@ -1,0 +1,11 @@
+position is Embedded Software Engineer
+company is Oxenham Group
+location is Boston, MA
+salary is N/A
+
+Seniority level is Mid-Senior level
+Employment type is Full-time
+Job function is Engineering
+Industries is Software Development
+
+Work in emerging Embedded Open-Source tools for an advanced medical device company in the Bedford, MA area as part of a leader in modern robotics and software development.Required Qualifications:Experience with C++ embedded developmentYocto Experience: Demonstrated proficiency in writing recipes Ability to create images Familiarity with processor fundamentals such as x86 and ARM Collaborative experience with DevOps for setting up Development EnvironmentsStrong understanding of Linux internals: Knowledge of hardware/software interaction, including bootloaders (especially u-boot and grub) and system boot sequencesUnderstanding of kernel structureKnowledge of packages and package management: Proficiency in patching and apt systemCapability to troubleshoot hardware/software issues: Skilled in debugging driver-level issues in the operating systemProficiency in reading schematics: Comprehensive understanding of hardware components from an electrical standpoint, encompassing NOR, NAND, SPI flash, and bus comprehensionPreferred Qualifications:Thorough understanding of development processes within a regulated industryPrior exposure to IEC62304 standardsAbility to build and customize Petalinux
